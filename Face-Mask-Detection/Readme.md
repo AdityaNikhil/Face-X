@@ -48,7 +48,7 @@ For the supervised machine learning problem, we will require labeled good qualit
 # Face Mask Detection Using `facex-library`
 The `FaceX` finally has it's own `face mask detection` algorithm which anybody can use by writing only one line of code. It can support both images and videos at the same time.
 
-For more information about the all new `facex-library`, checkout this [link]([Face-X/facex-library at master · akshitagupta15june/Face-X (github.com)](https://github.com/akshitagupta15june/Face-X/tree/master/facex-library)).
+For more information about the all new `facex-library`, checkout readme at this [link](https://github.com/akshitagupta15june/Face-X/tree/master/facex-library).
 
 Join this [discussion](https://github.com/akshitagupta15june/Face-X/discussions/323) for any queries or changes.
 
